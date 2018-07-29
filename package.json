@@ -1,0 +1,12 @@
+{
+  "name": "xero-random-sequences",
+  "version": "1.0.0",
+  "description": "A collection of sequences of randomly generated arrays of integers, useful for testing.",
+  "main": "index.js",
+  "keywords": [
+    "random",
+    "testing"
+  ],
+  "author": "Adam Cross",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
