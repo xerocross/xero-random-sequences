@@ -5,7 +5,7 @@ useful for testing.
 
 ## Usage
 
-# RandomSequences1
+### RandomSequences1
 
 ```
 import {RandomSequences1} from "xero-random-sequences"
@@ -13,7 +13,7 @@ import {RandomSequences1} from "xero-random-sequences"
 RandomSequences1 is an array of arrays of random numbers with length ranging
 from 0 to 49.
 
-# RandomSequences2
+### RandomSequences2
 
 ```
 import {RandomSequences2} from "xero-random-sequences"
